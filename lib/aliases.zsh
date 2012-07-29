@@ -22,3 +22,7 @@ alias sl=ls # often screw this up
 
 alias afind='ack-grep -il'
 
+# Edit and source .zshrc
+alias ez='$EDITOR ~/.zshrc'
+alias sz='source ~/.zshrc'
+
